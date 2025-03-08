@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kevin_araneda_20250307_trabajosemana7</string>
+    <string name="mensajeET">Ingresa tu nombre</string>
+    <string name="textoBoton">Ingreso</string>
+    <string name="bienvenida">¡Bienvenido!</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+</resources>
